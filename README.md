@@ -1,4 +1,5 @@
 # Business Insights 360 (Power BI)
+### Dashboard link - https://app.powerbi.com/view?r=eyJrIjoiYmMxYTQ1YTEtMTU0MC00YWI0LWJiNjktNTEyOGI5YjFiZjZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
 AtliQ Hardware is a global supplier of computer peripherals. While they initially performed well, they have faced significant losses in recent years. This is primarily due to their reliance on static Excel reports, which did not provide the insights needed for informed decision-making. Consequently, they've brought in a data analytics team to develop a dynamic Power BI dashboard that serves as a multifunctional tool with insights from various departments (Finance, Sales, Marketing and Supply Chain).
 
 𝑲𝒆𝒚 𝑯𝒊𝒈𝒉𝒍𝒊𝒈𝒉𝒕𝒔:
